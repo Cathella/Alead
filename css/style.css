@@ -1,0 +1,27 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+#side li {
+  transform: rotate(-90deg); 
+  display: inline-block;
+  margin: 5.5em 0;
+}
+
+#side li.extra {
+  margin: 7em 0
+}
+
+#side li a {
+  color: #888;
+}
+
+#store-name {
+  font-family: 'Playfair Display', serif;
+}
+
+@media only screen and (max-width: 991px) {
+  .no-show {
+    display: none;
+  }
+}
