@@ -1,0 +1,13 @@
+#side li {
+  transform: rotate(-90deg); 
+  display: inline-block;
+  margin: 5.5em 0;
+}
+
+#side li.extra {
+  margin: 7em 0
+}
+
+#side li a {
+  color: #888;
+}
