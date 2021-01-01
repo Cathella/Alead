@@ -19,3 +19,9 @@ body {
 #store-name {
   font-family: 'Playfair Display', serif;
 }
+
+@media only screen and (max-width: 991px) {
+  .no-show {
+    display: none;
+  }
+}
