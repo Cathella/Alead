@@ -1,3 +1,7 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
 #side li {
   transform: rotate(-90deg); 
   display: inline-block;
@@ -10,4 +14,8 @@
 
 #side li a {
   color: #888;
+}
+
+#store-name {
+  font-family: 'Playfair Display', serif;
 }
