@@ -25,6 +25,10 @@ body {
   margin-top: 30px;
 }
 
+.image-cart img {
+  height: 100px;
+}
+
 @media only screen and (max-width: 991px) {
   .no-show {
     display: none;
