@@ -29,6 +29,12 @@ body {
   height: 100px;
 }
 
+.bbg {
+  background-image: url("../img/bbg.jpg");
+  background-size: cover;
+  background-position: top center;
+}
+
 @media only screen and (max-width: 991px) {
   .no-show {
     display: none;
