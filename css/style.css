@@ -20,6 +20,11 @@ body {
   font-family: 'Playfair Display', serif;
 }
 
+.image img {
+  height: 150px;
+  margin-top: 30px;
+}
+
 @media only screen and (max-width: 991px) {
   .no-show {
     display: none;
